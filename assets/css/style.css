@@ -1,0 +1,82 @@
+
+body {
+    background-image:url('backgroundimage.jpg');
+
+
+}
+#gametitle {
+    background-color: rgb(245, 68, 68);
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 720px;
+    margin-left: 40px;
+}
+#instructions {
+    margin-right: 720px;
+    margin-left: 40px;
+    background-color: bisque;
+}
+#target-background  {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-right: 960px;
+    margin-left: 40px;
+	background-color: rgba(199, 252, 9, 0.342);
+}
+#counter-background  {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: goldenrod;
+	background-color: powderblue;
+	margin-right: 960px;
+    margin-left: 40px;
+    padding: 25px;
+	text-align: left;
+
+}
+.boxscore{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 960px;
+    margin-left: 40px;
+    background-color: brown;
+}
+#score {
+    font-size: 50px;
+
+}
+#score-background {
+    margin-left: 40px;
+    color: white;
+    font-size: 50px;
+
+}
+
+
+.crystal {
+    flex-direction: column;
+    margin-left: 40px;
+}
+
+#Cry1 {
+    
+    height: 100px;
+    width: 100px;
+
+}
+#Cry2 {
+    height: 100px;
+    width: 100px;
+    
+}
+#Cry3 {
+    height: 100px;
+    width: 100px;
+    
+}
+#Cry4 {
+    height: 100px;
+    width: 100px;
+    
+}
